@@ -137,17 +137,6 @@ AI-powered multi-language translation using cutting-edge NLP techniques.
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
-
-
-
-<div align="center">
-
-
-
-</div>
-
----
 
 <div align="center">
 
