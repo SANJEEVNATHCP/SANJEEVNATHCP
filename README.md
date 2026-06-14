@@ -135,7 +135,7 @@ AI-powered multi-language translation using cutting-edge NLP techniques.
 ║  📍 Data Analytics Intern  @ Tamizhan Skills RISE   [Mar 2026]                 ║
 ║     → Churn prediction · financial risk analysis · EDA & feature engineering   ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+
 
 ---
 
