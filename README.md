@@ -135,8 +135,8 @@ AI-powered multi-language translation using cutting-edge NLP techniques.
 ║  📍 Data Analytics Intern  @ Tamizhan Skills RISE   [Mar 2026]                 ║
 ║     → Churn prediction · financial risk analysis · EDA & feature engineering   ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
+```
 
----
 ---
 
 ### `> trophies`
@@ -152,16 +152,6 @@ AI-powered multi-language translation using cutting-edge NLP techniques.
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║   "Turning raw data into decisions that matter."             ║
-║                                      — Sanjeevnath C P      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=0D0D0D&fontSize=16&animation=fadeIn)
-
-</div>
-
 ╔══════════════════════════════════════════════════════════════╗
 ║   "Turning raw data into decisions that matter."             ║
 ║                                      — Sanjeevnath C P      ║
