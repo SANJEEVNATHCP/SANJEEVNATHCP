@@ -80,6 +80,7 @@
 | Zenith Introdux-45 | KGISL College | 🥇 First Place |
 | EMICA Promptify | Tamilnadu College | 🥇 First Place |
 
+---
 
 <p align="center">
   <i>"Turning raw data into actionable insights — one dataset at a time."</i>
