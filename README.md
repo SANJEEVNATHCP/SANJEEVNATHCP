@@ -135,17 +135,6 @@ AI-powered multi-language translation using cutting-edge NLP techniques.
 ║  📍 Data Analytics Intern  @ Tamizhan Skills RISE   [Mar 2026]                 ║
 ║     → Churn prediction · financial risk analysis · EDA & feature engineering   ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-### `> trophies`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
