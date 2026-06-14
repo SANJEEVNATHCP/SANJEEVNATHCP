@@ -143,7 +143,7 @@ AI-powered multi-language translation using cutting-edge NLP techniques.
 
 <div align="center">
 
-[![trophy][![trophy](https://github-profile-trophy.vercel.app/?username=SANJEEVNATHCP)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
