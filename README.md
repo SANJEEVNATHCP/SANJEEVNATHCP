@@ -137,10 +137,31 @@ AI-powered multi-language translation using cutting-edge NLP techniques.
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 
 ---
+---
+
+### `> trophies`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SANJEEVNATHCP&theme=matrix&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 <div align="center">
 
 ```
+╔══════════════════════════════════════════════════════════════╗
+║   "Turning raw data into decisions that matter."             ║
+║                                      — Sanjeevnath C P      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=0D0D0D&fontSize=16&animation=fadeIn)
+
+</div>
+
 ╔══════════════════════════════════════════════════════════════╗
 ║   "Turning raw data into decisions that matter."             ║
 ║                                      — Sanjeevnath C P      ║
